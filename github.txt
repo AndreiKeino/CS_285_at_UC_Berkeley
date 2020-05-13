@@ -1,0 +1,13 @@
+github:
+
+!!!!!
+git push --all
+!!!!!
+
+repo at:
+https://github.com/AndreiKeino/CS_285_at_UC_Berkeley
+
+git remote add origin https://github.com/AndreiKeino/CS_285_at_UC_Berkeley
+
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+

@@ -1,0 +1,13 @@
+CS 285 at UC Berkeley
+Deep Reinforcement Learning
+
+http://rail.eecs.berkeley.edu/deeprlcourse/
+
+video
+
+https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
+
+homework
+
+https://github.com/berkeleydeeprlcourse/
+
